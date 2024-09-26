@@ -1,3 +1,3 @@
 import numpy as np
 var = 5
-print('hello word')
+print(f'La valeur de var est {var}')
